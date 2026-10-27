@@ -15,4 +15,5 @@ export class HomeComponent {
   readonly ticker = ['DNS', 'LEGAL', 'CMS', 'VSM', 'ML', 'DNS', 'LEGAL', 'CMS', 'VSM', 'ML'];
   readonly contactEmail = 'shaimaasaidmo@gmail.com';
   readonly contactPhone = '91767067';
+  readonly linkedInUrl = 'https://www.linkedin.com/in/shaima-al-maqbali-685367280';
 }

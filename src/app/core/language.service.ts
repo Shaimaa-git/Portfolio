@@ -61,7 +61,8 @@ const COPY: Record<string, LocalizedText> = {
   languages: { en: 'Arabic and English', ar: 'العربية والإنجليزية' },
   tagDev: { en: 'Java', ar: 'جافا' },
   tagSecurity: { en: 'Information Security', ar: 'أمن المعلومات' },
-  downloadCv: { en: 'Download CV', ar: 'تحميل السيرة الذاتية' }
+  downloadCv: { en: 'Download CV', ar: 'تحميل السيرة الذاتية' },
+  linkedIn: { en: 'LinkedIn', ar: 'لينكدإن' }
 };
 
 @Injectable({ providedIn: 'root' })
